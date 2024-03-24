@@ -6,7 +6,7 @@
 ---
 
 # 💻 Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=c++,c#,python,java,matlab,arduino,visualstudiocode,opencv,pytorch,tensorflow&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c++,c#,python,java,matlab,arduino,visualstudiocode,opencv,pytorch,tensorflow&perline=9)](https://skillicons.dev)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=NottMuz&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
 
