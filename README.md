@@ -1,14 +1,15 @@
-💫 About Me:
-**` Mechatronics Engineering Student `**
+# 💫 About Me
 
-🙋🏽‍♂️Hi! I'm Muzzammil Rehman<br><br>I am a Mechatronics Engineering Student @ Ontario Tech University🏫, and with a strong passion for robotics and electromechanical systems I hope to one day apply the knowledge I have gained to leave a lasting and positive impact on the world🌏.<br><br>Specifically, I am passionate about electrical/circuit design (PCB, VLSI, and ASIC)💡, control systems and embedded software 🖥️, as well as machine learning and computer vision. I enjoy bridging the gap between hardware and software. Currently seeking a summer 2025 internship :D.<br><br>I currently have extensive experience with the Arduino microcontroller, as well as with C++, C#, and Java (a strong catalog for 3D design with SolidWorks and Sketch-Up as well). I am also starting to create projects with the STM32 Nucleo and ESP32 microcontrollers to expand my knowledge and familiarize myself with ARM🦾 and other architectures.
+**Final-year Mechatronics Engineering student | Robotics • Electronics • Embedded Systems**
 
-Feel free to take a look around!!
+Hi, I'm Muzzammil Rehman, a Mechatronics Engineering student at Ontario Tech University. I enjoy building electromechanical systems, especially for inspection and maintenance applications.
+
+I recently completed a 16-month engineering internship at Ontario Power Generation, where I worked on inspection tooling, mechanical design and process improvement. My robotics research has involved ROS 2, Boston Dynamics Spot, LiDAR mapping and UAV/UGV coordination. Through personal projects and student teams, I've also gained hands-on experience with PCB design, embedded control and robotic system integration.
+
+I'm particularly interested in robotics, circuit design, control systems and embedded software. I like taking ideas from design and simulation through prototyping, testing and refinement. I'm currently exploring new graduate opportunities starting in 2027.
+
+Feel free to explore my projects and repositories!
+
 ---
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=NottMuz&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
-
-
 
 
